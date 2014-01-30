@@ -1,6 +1,6 @@
 {
     "name": "pixels-server",
-    "description": "Pixels Server Deployment Base",
+    "description": "Pixels Server Deployment",
     "version": "0.0.2",
     "private": true,
     "dependencies": {
