@@ -1,0 +1,28 @@
+{
+
+    "superAdmin":{
+        "permissions":[
+            "*"
+        ]
+    },
+    "admin":{
+        "permissions":[
+            "website.*",
+            "cms.users.*"
+        ]
+    },
+    "registered":{
+        "inherits":"guest",
+        "permissions":[
+            "user.self.login",
+            "user.self.profile.*"
+        ]
+    },
+    "guest":{
+        "permissions":[
+            "website.view.unsecured.*",
+            "-website.view.unsecured.secret"
+        ]
+    }
+
+}

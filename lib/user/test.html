@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
+    <script type="text/javascript" src="http://underscorejs.org/underscore-min.js"></script>
+        
+        
+<script type="text/javascript">
+$(document).ready(function(){
+
+
+
+var roles = {
+    superAdmin:{
+        permissions:[
+            "*"
+        ]
+    },
+    admin:{
+        permissions:[
+            "website.*",
+            "cms.users.*"
+        ]
+    },
+    registered:{
+        inherits:"guest",
+        permissions:[
+            "user.self.login",
+            "user.self.profile.*",
+        ]
+    },
+    guest:{
+        permissions:[
+            "website.view.unsecured.*",
+            "-website.view.unsecured.secret",
+        ]
+    }
+};
+
+var allen = {
+      
+    role:"guest",
+    permissions :[
+    
+    ]
+    
+};
+
+var permObject = {
+    website:{
+        this:true,
+        nodes:{
+            
+        }
+    }
+    
+}
+
+var currentUser = null;
+    
+function setCurrentUser(user){
+    currentUser = _.clone(user);
+    buildFullUserPermissions(currentUser);
+    
+    
+}
+    
+function buildFullUserPermissions(user){
+    
+    user.permissions = getRolePermissions(user.role).concat(user.permissions);
+    user.permissionsObject = {
+        _this:true,
+        _all:false
+    };
+    
+    _.each(user.permissions, function(node){
+        applyNode(user.permissionsObject, node);
+    });
+
+
+    
+}
+
+function applyNode(permissionsObject, nodeString){
+    var negated = false;
+    if(nodeString.indexOf("-") == 0){
+        negated = true;
+        nodeString = nodeString.slice(1);
+    }
+    var nodeArray = nodeString.split(".");
+    var nodeArrayLength = nodeArray.length;
+    var previousNode = permissionsObject;
+    _.each(nodeArray, function(node, index){
+        if(previousNode[node] == undefined && node != "*"){
+            var all = (node == "*")?true:false;
+            previousNode[node] = {
+                _this:true,
+                _all:all
+            };
+            if(index == nodeArrayLength-1 && negated == true){
+                previousNode[node]._this = false;
+                previousNode[node]._all = false;
+            }
+        }else if(node == "*"){
+            previousNode._all = true;
+        }
+        previousNode = previousNode[node];
+    });
+}
+
+function getRolePermissions(roleName){
+    var role = roles[roleName];
+    if(role.inherits != undefined){
+        var inheritedPermissions = getRolePermissions(role.inherits);
+         role.permissions =  inheritedPermissions.concat(role.permissions);  
+    }
+    return role.permissions;
+}
+
+
+function hasPermission(user, nodeString){
+    var nodeArray = nodeString.split(".");
+    var nodeArrayLength = nodeArray.length;
+    var previousNode = user.permissionsObject;
+    var isPermitted = false;
+    _.every(nodeArray, function(node, index){
+        console.log(node);
+        if(previousNode._all == true){ //the parent has an all attribute, but keep going just in case there is a negated node
+            if(previousNode[node] == undefined){
+                isPermitted = true;
+            }else if(previousNode[node]._this == false){
+                isPermitted = false;
+            }
+            //console.log("end 1");
+            
+        }else if(previousNode._this == false){ //the parent isnt allowed so we can stop here
+            //console.log("end 2");
+            isPermitted = false;
+            return false;
+        }else if(previousNode[node] == undefined && previousNode._all == false && index < nodeArrayLength){
+            //console.log("end 3");
+            isPermitted = false;
+            return false;
+        }else if(previousNode[node] == undefined && previousNode._all == true && index == nodeArrayLength){
+            //console.log("end 4");
+            isPermitted = true;
+            return false;
+        }else if(node == "*" && index == nodeArrayLength-1){ //the last node
+            //console.log("run 1");
+            if(previousNode._all == true){
+                isPermitted = true;
+            }
+        }else if(index == nodeArrayLength-1 && previousNode[node] != undefined){ //the last node
+            //console.log("run 2");
+            if(previousNode[node]._this == true){
+                isPermitted = true;
+            }else{
+                isPermitted = false;
+            }
+        }
+
+        previousNode = previousNode[node];
+        return true;
+
+    },this);
+
+    return isPermitted;
+
+}
+    
+    
+    
+  
+setCurrentUser(allen);
+console.log(currentUser.permissionsObject);
+console.log(hasPermission(currentUser, "website.view.unsecured.secret"));
+
+
+
+});
+</script>
+
+    </head>
+    <body></body>
+</html>

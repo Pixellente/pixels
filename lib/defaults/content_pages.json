@@ -1,0 +1,33 @@
+[
+
+
+
+	{
+		"slug":"about-us",
+		"uri":"/about-us",
+		"en":{
+			"navigationTitle":"About Us",
+			"pageTitle":"About Us"
+		},
+		"components":{
+			"main-content":[
+				{
+					"type":"text",
+					"en":{
+						"content":"<h2>Lorem ipsum.</h2>"
+					}
+				},
+				{
+					"type":"login"
+				}
+			]
+		}
+	}
+
+
+
+
+
+
+
+]

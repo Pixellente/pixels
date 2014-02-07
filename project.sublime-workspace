@@ -1,1 +1,1208 @@
-{}
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"request"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"rep",
+				"response"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"file",
+				"filePath"
+			],
+			[
+				"toC",
+				"toCompile"
+			],
+			[
+				"com",
+				"compiled"
+			],
+			[
+				"p",
+				"parameters"
+			],
+			[
+				"res",
+				"responseObject"
+			],
+			[
+				"region",
+				"regionName"
+			],
+			[
+				"render",
+				"renderRegion"
+			],
+			[
+				"data",
+				"database"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"item",
+				"items2"
+			],
+			[
+				"cat",
+				"categories"
+			],
+			[
+				"open",
+				"openDB"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"min-",
+				"min-height"
+			],
+			[
+				"fea",
+				"featureData"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"border-",
+				"border-radius"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"toggl",
+				"toggleMenu"
+			],
+			[
+				"hide",
+				"hideMenu"
+			],
+			[
+				"wd",
+				"width"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"wit",
+				"white-space"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"backg",
+				"background-position"
+			],
+			[
+				"background-",
+				"background-image"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"get",
+				"getClasses"
+			],
+			[
+				"togg",
+				"toggleParent"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"this",
+				"thickness"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"clas",
+				"classLogin"
+			],
+			[
+				"class",
+				"classSearch"
+			],
+			[
+				"path",
+				"pathSection"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"TEXT",
+				"text-indent"
+			],
+			[
+				"fotn-s",
+				"font-size"
+			],
+			[
+				"List",
+				"ListElement"
+			],
+			[
+				"End",
+				"EndDate"
+			],
+			[
+				"label",
+				"label_radio"
+			],
+			[
+				"pre",
+				"PreChecklist"
+			],
+			[
+				"start",
+				"startButton"
+			],
+			[
+				"dia",
+				"dialog"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"dash",
+				"dashboardView"
+			],
+			[
+				"vie",
+				"viewCount"
+			],
+			[
+				"view",
+				"viewGroup"
+			],
+			[
+				"views",
+				"viewsKeys"
+			],
+			[
+				"vi",
+				"view"
+			],
+			[
+				"tab",
+				"tabButton"
+			],
+			[
+				"border-top-",
+				"border-top-left-radius"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"chil",
+				"childTarget"
+			],
+			[
+				"c",
+				"childrenIndex"
+			],
+			[
+				"bu",
+				"_buildRootElement"
+			],
+			[
+				"ele",
+				"elementWidth"
+			],
+			[
+				"elme",
+				"elementWidth"
+			],
+			[
+				"wra",
+				"wrapSelectBoxes"
+			],
+			[
+				"bind",
+				"bindEvents"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"par",
+				"parseInt"
+			],
+			[
+				"slid",
+				"slideCount"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"coun",
+				"counter"
+			],
+			[
+				"sec",
+				"sectionSchema"
+			],
+			[
+				"Sec",
+				"SectionDashboard"
+			],
+			[
+				"ge",
+				"General"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"ui",
+				"uiDisplay"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"chec",
+				"checkStatus"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"border-c",
+				"border-collapse"
+			],
+			[
+				"to",
+				"toScreenXY"
+			],
+			[
+				"tes",
+				"tagTest"
+			],
+			[
+				"pro",
+				"projScreenMat"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"inl",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/pixels.js",
+			"settings":
+			{
+				"buffer_size": 2592,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "test/user-test.js",
+			"settings":
+			{
+				"buffer_size": 730,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 483,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/api/modules/user.js",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/page/index.js",
+			"settings":
+			{
+				"buffer_size": 1082,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/page/component/types/text.js",
+			"settings":
+			{
+				"buffer_size": 98,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/page/component/types/login.js",
+			"settings":
+			{
+				"buffer_size": 92,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/defaults/content_pages.json",
+			"settings":
+			{
+				"buffer_size": 304,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/page/component/index.js",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"grunt",
+				"Grunt"
+			],
+			[
+				"",
+				"File: Close All"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/allenwilliamson/repositories/pixels/lib/defaults/index.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/page/component/types/login.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/api/modules/user.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/templates/index.js",
+		"/Users/allenwilliamson/repositories/pixels/test/user-test.view.html",
+		"/Users/allenwilliamson/repositories/pixels/lib/templates/login.hbs",
+		"/Users/allenwilliamson/repositories/pixels/package.json",
+		"/Users/allenwilliamson/repositories/pixels/lib/templates/base.html",
+		"/Users/allenwilliamson/repositories/pixels/lib/pixels.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/api/modules/media.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/defaults/user_roles.json",
+		"/Users/allenwilliamson/repositories/pixels/lib/api/index.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/page/index.js",
+		"/Users/allenwilliamson/repositories/pixels/templates/inside.html",
+		"/Users/allenwilliamson/repositories/pixels/lib/media/index.js",
+		"/Users/allenwilliamson/repositories/pixels/test/user-test.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/user/test.html",
+		"/Users/allenwilliamson/repositories/pixels/lib/page/component/index.js",
+		"/Users/allenwilliamson/repositories/pixels/test.js",
+		"/Users/allenwilliamson/repositories/pixels/media/test.txt",
+		"/Users/allenwilliamson/repositories/pixels/lib/page/component/types/text.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/defaults/content_pages.json",
+		"/Users/allenwilliamson/repositories/pixels/lib/page.js",
+		"/Users/allenwilliamson/repositories/pixels/index.js",
+		"/Users/allenwilliamson/repositories/pixels/lib/settings.json",
+		"/Users/allenwilliamson/repositories/pixels/lib/defaults.json",
+		"/Users/allenwilliamson/repositories/pixels/.gitignore",
+		"/Users/allenwilliamson/repositories/pixels/project.sublime-project",
+		"/Users/allenwilliamson/Downloads/geoip-country6.dat",
+		"/Users/allenwilliamson/repositories/pixellente/pixels-website/package.json",
+		"/Users/allenwilliamson/repositories/pixellente/rest-api-test/app.js",
+		"/Users/allenwilliamson/repositories/pixellente/rest-api-test/project.sublime-project",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/includes/footer.inc",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/includes/more.inc",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/inside.html",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/home.html",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/less/common.less",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/less/common.breakpoints.less",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/less/common.mediaqueries.less",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/js-source/source.js",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/less/settings.less",
+		"/Users/allenwilliamson/Documents/Projects/neba/template/style.css",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/Gruntfile.js",
+		"/Users/allenwilliamson/Desktop/www/admin-new/pixels-admin.sublime-project.sublime-project",
+		"/Users/allenwilliamson/repositories/pixellente/websites/mvhp/template/project.sublime-project",
+		"/Users/allenwilliamson/Desktop/www/templates/less/settings.less",
+		"/Users/allenwilliamson/Desktop/www/templates/less/reset.less",
+		"/Users/allenwilliamson/Documents/Projects/Diamond/template/Gruntfile.js",
+		"/Users/allenwilliamson/Desktop/www/Composer.json",
+		"/Users/allenwilliamson/Documents/Projects/Diamond/template/project.sublime-project",
+		"/Users/allenwilliamson/Documents/Projects/Broadway Pizza/template/js-source/template.js",
+		"/Users/allenwilliamson/Documents/Projects/Broadway Pizza/template/broadway.sublime-project",
+		"/Users/allenwilliamson/Desktop/www/admin-new/js-source/modules/plugin.sections.js",
+		"/Users/allenwilliamson/Desktop/www/admin-new/js-source/lib/handlebars-v1.1.2.js",
+		"/Users/allenwilliamson/Desktop/www/admin-new/Gruntfile.js",
+		"/Users/allenwilliamson/Documents/Projects/salamanders/css/common.css",
+		"/Users/allenwilliamson/Documents/Projects/Diamond/products_intro.htm",
+		"/Users/allenwilliamson/Desktop/reservation.html",
+		"/Volumes/NTFS2/server/www/Salamanders/joomlah template/css/common.css",
+		"/Users/allenwilliamson/Desktop/common.css",
+		"/Volumes/Pacific/server/www/Salamanders/template/css/common.css",
+		"/Users/allenwilliamson/Pixellente/Pixels/Pixels/1.0/admin/build/package.json",
+		"/Users/allenwilliamson/Pixellente/Pixels/Pixels/1.0/admin/build/Gruntfile.js",
+		"/Users/allenwilliamson/Downloads/tonic-master/web/dispatch.php",
+		"/Users/allenwilliamson/Downloads/tonic-master/composer.json",
+		"/Users/allenwilliamson/Documents/Web-Source/class-schedule/templates/class.hbs",
+		"/Users/allenwilliamson/Documents/Web-Source/class-schedule/class-schedule.sublime-project",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/ui.breakpoints.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/ui.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/ui.mediaqueries.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/source.template.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/source.template.support.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/ui.support.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/common.support.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/source.template.support.lite.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/common.mediaqueries.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/source.template.lite.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/responsive-e.sublime-project",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/class-schedule.html",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/classschedule.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/classschedule.breakpoints.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/js/source.js",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/source.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/catalog.html",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/inside.html",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/template.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/settings.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/galaxy.core.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/system/includes/css/biography.css",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/galaxy.core.breakpoints.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/template.breakpoints.less",
+		"/C/Users/Allen/Documents/Projects/responsive-1.0/source/less/mediaqueries.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/system/includes/css/min/template-shell.css",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/system/includes/css/template-shell.css",
+		"/D/UML/NewsLine/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/system/includes/css/biography-list.css",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-d/css/app.css",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/responsive-e.sublime-project",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/build/Gruntfile.js",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/galaxy.core.mediaqueries.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/galaxy.core.support.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/source.support.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/normalize.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/mixins.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/common.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/galaxy.core.mediaqueries",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/bin/font/stylesheet.css",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/less/sabonltstd-roman.css",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/calendar/js/functions.js",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/responsive-e/source/crf.sublime-project",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/build/package.json",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/mission/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/ourlabs/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/ourlabs/cleanroom/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/introduction/facultyandstudents/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/source/less/common.less",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/sitemap.htm",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/events/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/contactus/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/source/inside.html",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/introduction/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/old-site/_php/code_includes/body.footer.inc.php",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/account/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/account/facultyandstudents/default.aspx",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/old-site/register.php",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/old-site/login.php",
+		"/C/Users/Allen/Google Drive/www/uml-mobile/crf/website/Templates/navhelper.aspx.cs"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"C:\\Users\\Allen\\Google Drive\\www\\uml-mobile\\crf\\website",
+			"C:\\Users\\Allen\\Google Drive\\www\\uml-mobile\\crf\\old-site"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"config",
+			"require",
+			"callback",
+			"fs",
+			"http",
+			"path",
+			"content_pages",
+			"permissions",
+			"types",
+			"component",
+			"uristring",
+			"openDb",
+			"winedb",
+			"close-button",
+			"info",
+			"inf",
+			".feature",
+			".dark",
+			"webkit",
+			"info",
+			".page",
+			"image",
+			".background",
+			"::",
+			"placeholder",
+			"webkit",
+			".search",
+			"box-siz",
+			"box-resiz",
+			"box-reis",
+			"box-si",
+			"box-s",
+			"-webkit",
+			"h1",
+			".page",
+			"feature",
+			"info-button",
+			"pthe",
+			"text-decoration",
+			"a",
+			".05",
+			"after",
+			".5",
+			".page",
+			"locked",
+			".breadcru",
+			"transl",
+			"right",
+			"9830",
+			".navigation-",
+			"9000",
+			"content-home",
+			"#718EBF",
+			">\n",
+			"flex",
+			"clex",
+			":table",
+			".sub-navigation",
+			".container",
+			"table",
+			"MW",
+			"item-id",
+			"data-toggle",
+			";\n",
+			".breadcrumbs",
+			"hide",
+			"%;",
+			"hide",
+			"3d",
+			".profileCard .text",
+			".text",
+			"label",
+			"app-tool",
+			".input",
+			".breadc",
+			"justify",
+			";\n",
+			"select:focus",
+			".dropdown",
+			"focus",
+			".btn-group",
+			".btn",
+			"rgba(30,87,153,1)",
+			"rgba(41,137,216,1)",
+			"rgba(125,185,232,1)",
+			".gradient",
+			"rgba(125,185,232,1)",
+			"rgba(41,137,216,1)",
+			"rgba(30,87,153,1)",
+			"'|'",
+			"\"|\"",
+			"|",
+			".join(',')",
+			".btn",
+			".blue",
+			"</p>",
+			"<p>",
+			"/research/CRF/stage/templates/",
+			"operating",
+			"<br></br>",
+			"user rates",
+			"Intruction",
+			"http://www.uml.edu/Research/CRF/getting-started\"",
+			"stage/stage/",
+			"https://crf.uml.edu/",
+			"Nanofabrication Lab Clean Room",
+			"<%@ Page Language=\"C#\" AutoEventWireup=\"true\" Debug=\"true\" CodeFile=\"/research/CRF/stage/templates/navhelper.aspx.cs\" Inherits=\"UML.FacultyTemplate\" %>\n<!DOCTYPE html>\n\n<!--[if lt IE 7]> <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js lt-ie9 lt-ie8\" lang=\"en\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js lt-ie9\" lang=\"en\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\"><!-- InstanceBegin template=\"/Templates/Inside.dwt.aspx\" codeOutsideHTMLIsLocked=\"false\" --> <!--<![endif]-->\n<head>\n\n    <meta charset=\"utf-8\" />\n    <meta name=\"viewport\" content=\"width=device-width,initial-scale=1\">\n\n    <!-- InstanceBeginEditable name=\"doctitle\" -->\n    <title>Our Labs</title>\n    <!-- InstanceEndEditable -->\n\n    \n    <!--[if lte IE 8]>\n    <link rel=\"stylesheet\" href=\"/research/CRF/stage/templates/css/common.support.css\"/>\n    <![endif]-->\n    <!--[if gt IE 8]><!--> <link rel=\"stylesheet\" href=\"/research/CRF/stage/templates/css/common.css\"/> <!--<![endif]-->\n\n    \n    <!--[if lte IE 8]>\n    <script type=\"text/javascript\" src=\"/research/CRF/stage/templates/js/common.support.js\"></script>\n    <![endif]-->\n    <!--[if gt IE 8]><!--> <script type=\"text/javascript\" src=\"/research/CRF/stage/templates/js/common.js\"></script> <!--<![endif]-->\n\n</head>\n\n\n<body class=\"template-inside\">\n\n<div class=\"header\">\n\n    <div class=\"banner\">\n        <!-- InstanceBeginEditable name=\"Banner\" --><img src=\"/research/CRF/stage/templates/images/banner01.jpg\"/><!-- InstanceEndEditable -->\n    </div>\n\n    <div class=\"row brand-secondary\">\n        <div class=\"small-12 large-3 columns\">\n            <a href=\"http://www.uml.edu/\" class=\"logo-secondary\"><img src=\"/research/CRF/stage/templates/images/logo-uml.png\"/></a>\n        </div>\n        <div class=\"small-12 large-9 columns\">\n            <!-- <div class=\"user-actions\">\n                <a href=\"#\">Search Resources</a>\n                <a href=\"#\">Register</a>\n                <a href=\"#\">Login</a>      \n            </div> -->\n        </div>\n    </div>\n\n    <div class=\"row brand-primary\">\n        <div class=\"small-12 large-12 columns\">\n            <a href=\"http://www.uml.edu/Research/CRF/stage/\" class=\"logo-primary\"><img src=\"/research/CRF/stage/templates/images/logo-crf.png\"/></a>\n        </div>\n    </div>\n\n</div>\n\n\n\n<div class=\"navigation-top\">\n    <div class=\"row\">\n        <div class=\"small-12 large-12 columns\">\n            <div class=\"navigation-top-toggle\">\n                <div id=\"navigationTopToggleButton\" class=\"button\"><i class=\"icon-reorder\"></i> Menu</div>\n            </div>\n\n            \n            <ul>\n              <li>\n                <a href=\"/Research/CRF/stage/\">\n                  Introduction\n                </a>\n              </li>\n              <li class=\"active\">\n                <a href=\"/Research/CRF/stage/account/\">\n                  Account &amp; User Registration\n                </a>\n              </li>\n              <li>\n                <a href=\"/Research/CRF/stage/#\">\n                  Login\n                </a>\n              </li>\n              <li>\n                <a href=\"/Research/CRF/stage/#\">\n                  Search Resources\n                </a>\n              </li>\n              <li>\n                <a href=\"/Research/CRF/stage/ourlabs/\">\n                  Our Labs\n                </a>\n              </li>\n              <li>\n                <a href=\"/Research/CRF/stage/#\">\n                  Events\n                </a>\n              </li>\n              <li>\n                <a href=\"/Research/CRF/stage/contactus/\">\n                  Contact Us\n                </a>\n              </li>\n            </ul>\n\n\n\n        </div>\n    </div>\n</div>\n\n\n<div class=\"content-main\">\n    <div class=\"row\">\n        <div class=\"small-12 large-3 columns\">\n            <ul class=\"navigation-left\">\n                <li class=\"active\"><a href=\"http://www.uml.edu/Research/CRF/stage/account/facultyandstudents/\">For UMass Lowell Faculty and Students</a></li>\n            </ul>\n        </div>\n\n        <div class=\"small-12 large-9 columns\">\n            <h1><!-- InstanceBeginEditable name=\"Page Heading\" -->Account &amp; User Registration<!-- InstanceEndEditable --></h1>\n            <!-- InstanceBeginEditable name=\"Main Content\" -->\n<h2>Let Us Help You with Your Research</h2>\n            <div> <strong>University of Lowell’s Core Research Facilities (CRF) Program for Community Researchers &nbsp;</strong>&nbsp;\n              <div style=\"float:right\"></div>\n              <div><br />\n                <div>UMass Lowell's new CRF program extends direct use of some of our laboratory equipment, services and unique facilities to the scientific community. Our CRF services program permits streamlined access to many on-campus instruments, services and facilities. Our interactive website provides a listing of offerings under this program as well as faculty laboratories, services and resources which may be available through sponsor research agreements or research services agreements.</div>\n                <div>&nbsp;</div>\n                <div>External industry and academic researchers are invited to use our Core Research Facilities services and sophisticated instrumentation. Follow the simple steps detailed in the “Account Process” link to open a CRF account and register users. Once your organization’s account is opened and user id’s established you are clicks away from scheduling instrument training, reserving equipment use and ordering services.</div>\n                <div><br />\n                </div>\n                <div><strong>Please contact Theresa Hamelin, CRF Business Manager at <a href=\"mailto:crf@uml.edu\" target=\"_blank\">crf@uml.edu</a>&nbsp;regarding any questions. <br />\n                <br />\n                </strong></div>\n                <ul>\n                  <li><a href=\"#process\">Account Process</a></li>\n                  <li><a href=\"#registration\">User Registration</a></li>\n                  <li><a href=\"#rates\">User Rates</a></li>\n                  <li><a href=\"#hours\">Operating Hours</a></li>\n                  <li><a href=\"#training\">Training</a></li>\n                  <li><a href=\"#invoices\">Invoices and Payments</a> <strong><br />\n                  </strong></li>\n                </ul>\n                <div><strong>Account Process <br />\n                <br />\n                </strong></div>\n                <a name=\"process\" id=\"process\"> </a>\n                <ol>\n                <li><a name=\"process\" id=\"process\"><span style=\"display:none;\">&nbsp;</span></a><a href=\"https://crf.uml.edu/register_account.php\" target=\"_blank\">Complete and submit the account application</a>. On the application form,&nbsp;<em>Account Contact</em>&nbsp;is the person who has authority to commit your organization's procurement activities;&nbsp;<em>Billing Contact</em> is the person who is responsible for processing invoices and payments;&nbsp;<em>Signatory Authority</em> is the person authorized to commit your organization's behalf for contractual agreements. <br />\n                  &nbsp;</li>\n                  <li><a href=\"/docs/CRF-Agreement-Lowell-revised-Feb2013_tcm18-86303.pdf\" title=\"Sample_CRF_Agreement\" target=\"_blank\">View Core Research Facility Agreement</a>.&nbsp;Using Echosign (an electronic signature package), the non-negotiable Core Research Facility Agreement will be sent to the signatory official indicated on the application form. Once signed, the agreement is electronically sent to our signatory official. A copy of the executed agreement will be sent by email to both parties. <br />\n                    <br />\n                    Note: This step is not required for internal faculty accounts. <br />\n                    <br />\n                  </li>\n                  <li>An account number and passphrase will be sent to the account point of contact. In order to safeguard the procurement process, this individual is responsible for providing the account information as a means of authorizing users to make use of our services and instruments. <br />\n                  </li>\n                </ol>\n                <div><strong>Note: It is the account holder’s responsibility to insure that all authorized users are informed of the Terms and Conditions of the Core Research Facility Agreement and agree to follow all University and Laboratory policies and guidelines posted on the CRF website. Non-compliant users will be banned from using the CRF program and the account holder will be notified.&nbsp;</strong></div>\n                <div><br />\n                </div>\n                <div><strong> <br />\n                User Registration <br />\n                &nbsp;</strong></div>\n                <a name=\"registration\" id=\"registration\"> </a>\n                <ol>\n                  <a name=\"registration\" id=\"registration\"> </a>\n                  <li><a name=\"registration\" id=\"registration\"><span style=\"display:none;\">&nbsp;</span></a><a href=\"https://crf.uml.edu/register_person.php\" target=\"_blank\">Users register on-line</a>. You must provide your organization account number and passphrase. This information is available through your organization's account point of contact as designated in step 3 of Account Process.&nbsp; <br />\n                    <br />\n                  </li>\n                  <li>Once a user id has been issued, users are able sign up for instrument training, order services and schedules instrument time using our on-line reservation system. &nbsp; <br />\n                    <br />\n                  <strong>Note</strong>: Users must complete instrument training prior to reserving instrument time.</li>\n                </ol>\n                <div><strong> <br />\n                User Rates: <br />\n                <br />\n                </strong></div>\n                <ul>\n                  <li>External user rates are established using a full cost-recovery model.&nbsp; <br />\n                    <br />\n</li>\n                  <li>Rates include lab supplies*, stock materials, use of the research laboratory’s ancillary and auxiliary equipment and tools. <br />\n                    <br />\n</li>\n                  <li>Users of the Nanofabrication Laboratory clean room experimental bays are required to prepay any and all related equipment installation and removal cost.&nbsp; <br />\n                    <br />\n</li>\n                  <li>In accordance with federal guidelines user rates are reviewed on an annual basis to coincide with the University’s fiscal year. Published rates will be reviewed and possibly adjusted July 1st of each fiscal year. <br />\n</li>\n                </ul>\n                <div>*(Rates for the Nanofabrication Laboratory include gowning for one person. Gowning for additional guests must be ordered as an additional line item on the ordering system).&nbsp;&nbsp;</div>\n                <div><a name=\"rates\" id=\"rates\"><br />\n                </a></div>\n                <div><a name=\"rates\" id=\"rates\"><strong><span style=\"display:none;\">&nbsp;</span></strong></a><strong> <br />\n                Operating Hours: <br />\n                <br />\n                </strong></div>\n                <ul>\n                  <li>Standard operating hours for external users is 8:30 a.m. until 5:00 p.m.&nbsp; <br />\n                    <br />\n</li>\n                  <li>Instrument use outside standard hours may be coordinated with the Lab Director.</li>\n                </ul>\n                <div><a name=\"hours\" id=\"hours\"><strong><span style=\"display:none;\">&nbsp;</span></strong></a><strong> <br />\n                Training: <br />\n                <br />\n                </strong></div>\n                <ul>\n                  <li>There is no additional charge for general lab and safety training. <br />\n                    <br />\n</li>\n                  <li>Instrument training is billed at the rate as designated for each instrument. <br />\n                    <br />\n</li>\n                  <li>Instrument SOP’s and related documents are available on the instrument listing.</li>\n                </ul>\n                <div><a name=\"training\" id=\"training\"><strong><span style=\"display:none;\">&nbsp;</span></strong></a><strong> <br />\n                Invoices and Payments: <br />\n                <br />\n                </strong></div>\n                <ul>\n                  <li>Monthly invoices will be sent to the account billing contact and registered user. Users will be billed for all reserved time. Users are to report equipment malfunctions to the appropriate Lab Director. The Lab Director may waive charges in the event of equipment or facilities failures. <br />\n                    <br />\n</li>\n                  <li>Payment terms are NET 30. <strong>Accounts and user accounts with outstanding payments greater than 60 days may be suspended.</strong></li>\n                </ul>\n                <div></div>\n              </div>\n\n            <!-- InstanceEndEditable -->\n        </div>\n    </div>\n\n\n\n\n        </div>\n    </div>\n\n</div>\n\n<div class=\"footer\">\n    <div class=\"row\">\n        <div class=\"small-12 large-8 columns\">\n\n            <div class=\"tag-line\">Access, Analysis, Intruction</div>\n            <% = footer %>\n        </div>\n        <div class=\"small-12 large-4 columns\">\n            <div class=\"social-media\">\n                <h3>Connect With Us</h3>\n                <% = socialMedia %>\n                <!-- <a href=\"#\" class=\"icon-linkedin\"></a>\n                <a href=\"#\" class=\"icon-facebook\"></a> -->\n            </div>\n        </div>\n\n    </div>\n</div>\n\n</body><!-- InstanceEnd -->",
+			"mySearchButtonArea",
+			"utGetSearchResults",
+			"social-media",
+			".footer .social-media",
+			".footer .social-media a",
+			"_",
+			".content-main",
+			"footer",
+			"user-actions",
+			"navigation-top-toggle",
+			"navigationTopToggleButton",
+			"migrate",
+			"window.$",
+			"$",
+			"preload",
+			"zIndex",
+			"zindex",
+			".time",
+			"#modalwindow-content .paddedContent .date .time",
+			"debug",
+			"StartDate"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\");\n",
+			"@color-secondary",
+			"itemID",
+			"@endColor",
+			"@middleColor",
+			"@startColor",
+			"@endColor",
+			"@middleColor",
+			"@startColor",
+			"",
+			"Instruction",
+			"http://www.uml.edu/Research/CRF/stage/account/",
+			"stage/",
+			"https://crf.uml.edu/stage/",
+			"href=\"/",
+			"logsButton",
+			"ui.mobile.",
+			"129.63.176.147",
+			"src=\"http://www.uml.edu/system/",
+			"url('http://www.uml.edu/system/",
+			"photos.php",
+			".button",
+			"SectionSettings.",
+			"SectionUsers.Manage",
+			"SectionUsers.Users",
+			"table.fileBrowserFiles"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/pixels.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2592,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1224,
+								1224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 536.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "test/user-test.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 730,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								563,
+								563
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 483,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								204,
+								204
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/api/modules/user.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								599,
+								599
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/page/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1082,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								927,
+								927
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 171.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "lib/page/component/types/text.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 98,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								84,
+								84
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "lib/page/component/types/login.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 92,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								49
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "lib/defaults/content_pages.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								277,
+								277
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "lib/page/component/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								217,
+								217
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 278.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
